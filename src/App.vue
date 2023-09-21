@@ -232,8 +232,8 @@ export default {
           ],
           interests_title: "INTERESTS",
           interests: [
-            "Talent : Piano",
             "Areas : Movie, Make-up",
+            "Talent : Piano",
             "Beverage : Matcha tea, Lemon tea",
             "Games : FPS, MOBA"
           ]
