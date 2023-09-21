@@ -198,8 +198,8 @@ export default {
           toggleImage: "Toggle image",
           source: "Source",
           introduction: [
-            "I am Khwachanok Saeneewong Na Ayutthaya, also known as Pearwa, a Computer Science student at Maejo University. I have some basic experience in programming and served as a Teacher Assistant in the 20th and 21st Youth Computer Camp Project.",
-            "I excel at time management, consistently completing work within specified deadlines, and I have a knack for quick learning.I am confident in my ability to communicate effectively and work well in a team."
+            "I am Khwachanok Saeneewong Na Ayutthaya, also known as Pearwa, a Third-year Computer Science student at Maejo University. I have some basic experience in programming and served as a Teacher Assistant in the 20th and 21st Youth Computer Camp Project.",
+            "I have a strong proficiency in time management, being able to work efficiently and meet deadlines consistently. I am a quick learner and am confident in my ability to communicate effectively and collaborate with others. My special expertise lies in system design and structural development. I aspire to further advance my skills and hope that your esteemed company will consider my application. Thank you very much for your kind consideration.",
           ],
           education: [
             {
@@ -214,7 +214,7 @@ export default {
             {
               title: "TECHNOLOGIES AND LANGUAGES",
               items: [
-                "<b>Languages:</b> Python, Java(strong), C, Assembly, CSS.",
+                "<b>Languages:</b> Python, Java(strong), HTML, Assembly, CSS.",
                 "<b>Frameworks:</b> VueJS, Vuetify, Bootstrap.",
                 "<b>Databases:</b> Docker(basic).",
               ]
@@ -225,14 +225,17 @@ export default {
           ],
           projects_title: "PROJECTS",
           projects: [
-            `<b>Coming Soon...</b> <a target="_blank" href="//--">--</a>`,
+            `<b>GonnaGo</b> Designing a website system for travel in Chiang Mai. <a target="_blank" href="//travel-go-eight.vercel.app/?fbclid=IwAR05RtJ-bT6BGVTFEYyf7i60iJdiRTKOtWzRaoYztgey-pn6maY0s5vo3aw">GonnaGo</a>`,
+            `<b>MUJLibrary</b>  Designing a book borrowing system <a target="_blank" href="//drive.google.com/drive/folders/1ndD7-Aab7eE8jG7P05I7phSrxE1KHvG0?usp=drive_link">MUJLibrary</a>`,
+            `<b>QuickNote</b> A website for leaving some notes <a target="_blank" href="//note-app-8b269.web.app/login?classId=bafbc167-d49c-4902-89cd-70ce9466fc32&assignmentId=cb60278f-4c4a-47b2-bfab-e958534d505b&submissionId=2a0cc702-547b-53f8-de05-5acb58f9cb18">QuickNote</a>`,
+            `<b>Dashboard</b> A self-introduction website created with Bootstrap. <a target="_blank" href="//khwanchanok123.github.io/Booststrap-Profile/index.html">Dashboard</a>`,
           ],
           interests_title: "INTERESTS",
           interests: [
-            "Areas : Coding, Productivity & Life-hacks",
-            "Beverage : Americano, Iced Espresso, Matcha tea",
-            "Games : Arcade, Indie, FPS",
-            "Pet : I have a cat name Khaijeaw"
+            "Talent : Piano",
+            "Areas : Movie, Make-up",
+            "Beverage : Matcha tea, Lemon tea",
+            "Games : FPS, MOBA"
           ]
         },
         th: {
@@ -246,8 +249,10 @@ export default {
           toggleImage: "แสดงรูปภาพ",
           source: "Source",
           introduction: [
-            `ดิฉัน นางสาวขวัญชนก เสนีย์วงศ์ ณ อยุธยา หรือที่รู้จักในชื่อว่า แพรวา นักศึกษาสาขาวิทยาการคอมพิวเตอร์ มหาวิทยาลัยแม่โจ้ ดิฉันมีประสบการณ์พื้นฐานในการเขียนโปรแกรมและเป็นผู้ช่วยสอนหรือ TA ในโครงการค่ายคอมพิวเตอร์รุ่นที่ 20 และ 21 ของสาขาวิทยาการคอมพิวเตอร์ มหาวิทยาลัยแม่โจ้`,
-            `ดิฉันค่อนข้างเชี่ยวชาญในการจัดการเวลา มีความสามารถในการทำงานตามกำหนดเวลาได้และดิฉันเป็นคนที่เรียนรู้ได้อย่างรวดเร็ว ดิฉันมั่นใจว่าดิฉันสามารถสื่อสารและทำงานร่วมกับผู้อื่นได้เป็นอย่างดี`
+            `ดิฉัน นางสาวขวัญชนก เสนีย์วงศ์ ณ อยุธยา หรือที่รู้จักในชื่อว่า แพรวา นักศึกษาสาขาวิทยาการคอมพิวเตอร์ มหาวิทยาลัยแม่โจ้ ชั้นปีที่ 3 ดิฉันมีประสบการณ์พื้นฐานในการเขียนโปรแกรมและเป็นผู้ช่วยสอนหรือ TA ในโครงการค่ายคอมพิวเตอร์รุ่นที่ 20 และ 21 ของสาขาวิทยาการคอมพิวเตอร์ มหาวิทยาลัยแม่โจ้`,
+            `ดิฉันค่อนข้างเชี่ยวชาญในการจัดการเวลา มีความสามารถในการทำงานตามกำหนดเวลาได้และดิฉันเป็นคนที่เรียนรู้ได้อย่างรวดเร็ว ดิฉันมั่นใจว่าดิฉันสามารถสื่อสารและทำงานร่วมกับผู้อื่นได้เป็นอย่างดี 
+            ดิฉันมีความถนัดด้านการออกแบบระบบและโครงสร้างระบบเป็นพิเศษ ดิฉันอยากที่จะพัฒนาตนเองให้ได้มากกว่านี้ และหวังว่าทางบริษัทของท่านจะรับดิฉันพิจารณา ขอบพระคุณเป็นอย่างสูง`,
+    
           ],
           education: [
             {
@@ -262,7 +267,7 @@ export default {
             {
               title: "เทคโนโลยีและภาษาที่ใช้",
               items: [
-                "<b>Languages:</b> Python, Java(strong), C, Assembly, CSS.",
+                "<b>Languages:</b> Python, Java(strong), HTML, Assembly, CSS.",
                 "<b>Frameworks:</b> VueJS, Vuetify, Bootstrap.",
                 "<b>Databases:</b> Docker(basic).",
               ]
@@ -273,14 +278,17 @@ export default {
           ],
           projects_title: "ผลงาน",
           projects: [
-            `<b>Coming Soon...</b> <a target="_blank" href="//--">--</a>`,
+            `<b>GonnaGo</b> ออกแบบระบบเว็ปไซต์ท่องเที่ยวทั่วเชียงใหม่ <a target="_blank" href="//travel-go-eight.vercel.app/?fbclid=IwAR05RtJ-bT6BGVTFEYyf7i60iJdiRTKOtWzRaoYztgey-pn6maY0s5vo3aw">GonnaGo</a>`,
+            `<b>MUJLibrary</b> ออกแบบระบบเว็ปไซต์จองหนังสือออนไลน์ <a target="_blank" href="//drive.google.com/drive/folders/1ndD7-Aab7eE8jG7P05I7phSrxE1KHvG0?usp=drive_link">MUJLibrary</a>`,
+            `<b>QuickNote</b> เว็ปไซต์สำหรับการเขียนโน็ตฝากไว้ <a target="_blank" href="//note-app-8b269.web.app/login?classId=bafbc167-d49c-4902-89cd-70ce9466fc32&assignmentId=cb60278f-4c4a-47b2-bfab-e958534d505b&submissionId=2a0cc702-547b-53f8-de05-5acb58f9cb18">QuickNote</a>`,
+            `<b>Dashboard</b> เว็ปไซต์แนะนำตนเองสร้างจาก Bootstrap <a target="_blank" href="//khwanchanok123.github.io/Booststrap-Profile/index.html">Dashboard</a>`,
           ],
           interests_title: "ความสนใจ",
           interests: [
-            "สนใจเป็นพิเศษ : การเขียนโปรแกรม, การสร้างผลงาน & เทคนิคการใช้ชีวิต",
-            "เครื่องดื่ม : อเมริกาโน่, เอสเปรสโซ่, ชาเขียวมัจฉะ",
-            "แนวเกม : อาเขต, อินดี้, FPS",
-            "สัตว์เลี้ยง : ผมมีแมวชื่อไข่เจียว"
+            "สนใจเป็นพิเศษ : ภาพยนต์, การแต่งหน้า",
+            "ความสามารถพิเศษ : เล่นเปียโน",
+            "เครื่องดื่ม : ชาเขียวมัจฉะ, ชามะนาว",
+            "แนวเกม : FPS, MOBA"
           ]
         }
       },
